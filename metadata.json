@@ -1,0 +1,6 @@
+{
+  "name": "Team Curiosity",
+  "description": "Curious City FTC Robotics Team management, attendance with face & location verification, daily work, topics, and reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
